@@ -12,7 +12,7 @@ This project is a **Parking Management System** built using **Spring Boot**. It 
 
 ### Prerequisites
 
-- Java 8 or higher
+- Java 8 or higher (Used Java 17)
 - Maven
 - Postman (for API testing)
    
