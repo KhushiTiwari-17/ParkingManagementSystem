@@ -14,7 +14,6 @@ This project is a **Parking Management System** built using **Spring Boot**. It 
 
 - Java 8 or higher
 - Maven
-- MySQL (for production use)
 - Postman (for API testing)
    
 ### Running the Application
