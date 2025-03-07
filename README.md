@@ -18,17 +18,22 @@ This project is a **Parking Management System** built using **Spring Boot**. It 
    
 ### Running the Application
 
-1. **Build the Project**:
+1. **Clone the repository**:
+   ```bash
+git clone https://github.com/your-username/ParkingManagementSystem.git](https://github.com/KhushiTiwari-17/ParkingManagementSystem.git
+   ```
+
+2. **Build the Project**:
    ```bash
    mvn clean install
    ```
 
-2. **Run the Application**:
+3. **Run the Application**:
    ```bash
    mvn spring-boot:run
    ```
 
-3. **Access the H2 Console**:
+4. **Access the H2 Console**:
    - URL: `http://localhost:8080/h2-console`
    - JDBC URL: `jdbc:h2:mem:parkingdb`
    - User Name: `sa`
