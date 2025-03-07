@@ -19,7 +19,7 @@ This project is a **Parking Management System** built using **Spring Boot**. It 
 ### Running the Application
 
 1. **Clone the repository**:
-git clone [https://github.com/KhushiTiwari-17/ParkingManagementSystem.git]
+- git clone https://github.com/KhushiTiwari-17/ParkingManagementSystem.git
 
 
 3. **Build the Project**:
